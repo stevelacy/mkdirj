@@ -1,0 +1,37 @@
+{
+  "name": "mkdirj",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0",
+    "rimraf": "^2.6.1",
+    "should": "^11.2.1"
+  },
+  "version": "0.1.0",
+  "description": "Create recursive directories from JSON objects",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevelacy/mkdirj.git"
+  },
+  "keywords": [
+    "mkdir",
+    "json",
+    "object",
+    "recursive",
+    "directory",
+    "mkdir",
+    "folders",
+    "folder"
+  ],
+  "author": "Steve Lacy <http://slacy.me> (me@slacy.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevelacy/mkdirj/issues"
+  },
+  "homepage": "https://github.com/stevelacy/mkdirj#readme"
+}
