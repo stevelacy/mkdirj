@@ -8,7 +8,7 @@ describe('mkdirj', function () {
   before(function (done) {
     rimraf(path.resolve(__dirname, 'temp'), done)
   })
-  it('should create a deeply nested folder structure based on an object', function (done) {
+  it('should thrown an error if no object is provided', function (done) {
     try {
       mkdirj()
     }
