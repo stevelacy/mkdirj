@@ -1,4 +1,6 @@
 # mkdirj
+[![Build Status](https://travis-ci.org/stevelacy/mkdirj.png?branch=master)](https://travis-ci.org/stevelacy/mkdirj)
+[![NPM version](https://badge.fury.io/js/mkdirj.png)](http://badge.fury.io/js/mkdirj)
 > Create recursive directories from JSON objects
 
 ##### Turn this:
